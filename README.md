@@ -4,7 +4,7 @@ A map built using QGIS that compares crash rates for signalized and unsignalized
 ![alt text](https://github.com/Androlel/Loudon-Intersection-Crash-Map/blob/main/Signals.png)
 
 ## Findings
-The result of this experiment showed that on average, intersections with traffic signals resulted in a higher likelihood of crashes than those without. 
+The result of this experiment showed that on average, intersections with traffic signals resulted in a higher likelihood of crashes than those without. However, this is not a comprehensive conclusion that can prove traffic signals are a more dangerous way of mediating rather lights are installed on more dangerous intersections as per the limitations below.
 All crash rates are in rate per million vehicles. 
 | Group | n | Mean | Median |
 |---|---|---|---|
