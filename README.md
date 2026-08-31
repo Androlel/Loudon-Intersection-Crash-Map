@@ -1,5 +1,5 @@
 # Loudoun-Intersection-Crash-Map
-A map built using QGIS that compares crash rates for signalized and unsignalized intersections on two way median divided roads in part of Loudoun County. Used trying to figure out if certain unprotected intersections were as dangerous as they appeared. 
+A map built using QGIS that compares crash rates for a total of 145 signalized and unsignalized intersections on two way median divided roads in part of Loudoun County. Used trying to figure out if certain unprotected intersections were as dangerous as they appeared. 
 
 ![alt text](https://github.com/Androlel/Loudon-Intersection-Crash-Map/blob/main/Signals.png)
 
